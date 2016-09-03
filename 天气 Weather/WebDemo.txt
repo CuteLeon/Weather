@@ -1,0 +1,206 @@
+﻿This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<resp>
+	<city>郑州</city>
+	<updatetime>17:20</updatetime>
+	<wendu>15</wendu>
+	<fengli>2级</fengli>
+	<shidu>33%</shidu>
+	<fengxiang>东风</fengxiang>
+	<sunrise_1>06:42</sunrise_1>
+	<sunset_1>17:35</sunset_1>
+	<sunrise_2/>
+	<sunset_2/>
+
+	<environment>
+		<aqi>66</aqi>
+		<pm25>36</pm25>
+		<suggest>极少数敏感人群应减少户外活动</suggest>
+		<quality>良</quality>
+		<MajorPollutants>颗粒物(PM10)</MajorPollutants>
+		<o3>77</o3>
+		<co>1</co>
+		<pm10>79</pm10>
+		<so2>33</so2>
+		<no2>44</no2>
+		<time>16:00:00</time>
+	</environment>
+	
+	<yesterday>
+		<date_1>28日星期三</date_1>
+		<high_1>高温 18℃</high_1>
+		<low_1>低温 8℃</low_1>
+
+		<day_1>
+			<type_1>多云</type_1>
+			<fx_1>无持续风向</fx_1>
+			<fl_1>微风</fl_1>
+		</day_1>
+
+		<night_1>
+			<type_1>多云</type_1>
+			<fx_1>无持续风向</fx_1>
+			<fl_1>微风</fl_1>
+		</night_1>
+	</yesterday>
+
+	<forecast>
+		<weather>
+			<date>29日星期四</date>
+			<high>高温 18℃</high>
+			<low>低温 8℃</low>
+
+			<day>
+				<type>多云</type>
+				<fengxiang>东北风</fengxiang>
+				<fengli>3-4级</fengli>
+			</day>
+
+			<night>
+				<type>多云</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>3-4级</fengli>
+			</night>
+		</weather>
+
+		<weather>
+			<date>30日星期五</date>
+			<high>高温 14℃</high>
+			<low>低温 7℃</low>
+
+			<day>
+				<type>多云</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>微风级</fengli>
+			</day>
+
+			<night>
+				<type>阴</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>微风级</fengli>
+			</night>
+		</weather>
+
+		<weather>
+			<date>31日星期六</date>
+			<high>高温 13℃</high>
+			<low>低温 7℃</low>
+
+			<day>
+				<type>小雨</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>微风级</fengli>
+			</day>
+
+			<night>
+				<type>多云</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>微风级</fengli>
+			</night>
+		</weather>
+
+		<weather>
+			<date>1日星期天</date>
+			<high>高温 16℃</high>
+			<low>低温 6℃</low>
+
+			<day>
+				<type>晴</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>微风级</fengli>
+			</day>
+
+			<night>
+				<type>晴</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>微风级</fengli>
+			</night>
+		</weather>
+
+		<weather>
+			<date>2日星期一</date>
+			<high>高温 19℃</high>
+			<low>低温 9℃</low>
+
+			<day>
+				<type>多云</type>
+				<fengxiang>无持续风向</fengxiang>
+				<fengli>微风级</fengli>
+			</day>
+
+			<night>
+					<type>多云</type>
+					<fengxiang>无持续风向</fengxiang>
+					<fengli>微风级</fengli>
+			</night>
+		</weather>
+	</forecast>
+
+	<zhishus>
+		<zhishu>
+			<name>晨练指数</name>
+			<value>适宜</value>
+			<detail>天气不错，空气清新，是您晨练的大好时机，建议不同年龄段的人们积极参加户外健身活动。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>舒适度</name>
+			<value>舒适</value>
+			<detail>白天不太热也不太冷，风力不大，相信您在这样的天气条件下，应会感到比较清爽和舒适。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>穿衣指数</name>
+			<value>较冷</value>
+			<detail>建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>感冒指数</name>
+			<value>较易发</value>
+			<detail>相对今天出现了较大幅度降温，较易发生感冒，体质较弱的朋友请注意适当防护。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>晾晒指数</name>
+			<value>基本适宜</value>
+			<detail>天气不错，午后温暖的阳光仍能满足你驱潮消霉杀菌的晾晒需求。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>旅游指数</name>
+			<value>适宜</value>
+			<detail>天气较好，但丝毫不会影响您出行的心情。温度适宜又有微风相伴，适宜旅游。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>紫外线强度</name>
+			<value>最弱</value>
+			<detail>属弱紫外线辐射天气，无需特别防护。若长期在户外，建议涂擦SPF在8-12之间的防晒护肤品。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>洗车指数</name>
+			<value>较适宜</value>
+			<detail>较适宜洗车，未来一天无雨，风力较小，擦洗一新的汽车至少能保持一天。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>运动指数</name>
+			<value>较适宜</value>
+			<detail>天气较好，但考虑气温较低，推荐您进行室内运动，若户外适当增减衣物并注意防晒。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>约会指数</name>
+			<value>适宜</value>
+			<detail>天气较好，和恋人一起徜徉于熙攘人群中或漫步于柔软草地上，都是不错的主意哦。</detail>
+		</zhishu>
+
+		<zhishu>
+			<name>雨伞指数</name>
+			<value>不带伞</value>
+			<detail>天气较好，不会降水，因此您可放心出门，无须带雨伞。</detail>
+		</zhishu>
+	</zhishus>
+</resp>
+<!--  127.0.0.1(127.0.0.1):57443 ; 127.0.0.1:8080  -->
